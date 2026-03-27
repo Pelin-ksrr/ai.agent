@@ -1,0 +1,181 @@
+2026-03-26 23:47:25 [USER    ] input='6'
+2026-03-26 23:47:25 [ERROR   ] message='400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]'
+2026-03-26 23:47:25 [AGENT   ] response='I encountered an unexpected error while processing your request. Details: 400 API key not valid. Please pass a valid API...'
+2026-03-27 04:13:06 [USER    ] input='merhaba'
+2026-03-27 04:13:06 [ERROR   ] message='400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]'
+2026-03-27 04:13:06 [AGENT   ] response='I encountered an unexpected error while processing your request. Details: 400 API key not valid. Please pass a valid API...'
+2026-03-27 04:13:50 [USER    ] input='hi'
+2026-03-27 04:13:50 [ERROR   ] message='400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]'
+2026-03-27 04:13:50 [AGENT   ] response='I encountered an unexpected error while processing your request. Details: 400 API key not valid. Please pass a valid API...'
+2026-03-27 04:16:41 [USER    ] input='hi'
+2026-03-27 04:16:41 [ERROR   ] message='400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]'
+2026-03-27 04:16:41 [AGENT   ] response='I encountered an unexpected error while processing your request. Details: 400 API key not valid. Please pass a valid API...'
+2026-03-27 04:17:36 [USER    ] input='hi'
+2026-03-27 04:17:36 [ERROR   ] message='400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]'
+2026-03-27 04:17:36 [AGENT   ] response='I encountered an unexpected error while processing your request. Details: 400 API key not valid. Please pass a valid API...'
+2026-03-27 04:17:46 [USER    ] input='2+4'
+2026-03-27 04:17:46 [ERROR   ] message='400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]'
+2026-03-27 04:17:46 [AGENT   ] response='I encountered an unexpected error while processing your request. Details: 400 API key not valid. Please pass a valid API...'
+2026-03-27 04:18:58 [USER    ] input='hı'
+2026-03-27 04:18:58 [ERROR   ] message='400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]'
+2026-03-27 04:18:58 [AGENT   ] response='I encountered an unexpected error while processing your request. Details: 400 API key not valid. Please pass a valid API...'
+2026-03-27 04:20:30 [USER    ] input='hı'
+2026-03-27 04:20:31 [AGENT   ] response='Hi there! How can I help you today?'
+2026-03-27 04:21:10 [USER    ] input='hı'
+2026-03-27 04:21:11 [ERROR   ] message='400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]'
+2026-03-27 04:21:11 [AGENT   ] response='I encountered an unexpected error while processing your request. Details: 400 API key not valid. Please pass a valid API...'
+2026-03-27 04:21:25 [USER    ] input='hı'
+2026-03-27 04:21:25 [ERROR   ] message='400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]'
+2026-03-27 04:21:25 [AGENT   ] response='I encountered an unexpected error while processing your request. Details: 400 API key not valid. Please pass a valid API...'
+2026-03-27 04:21:45 [USER    ] input='pelın ıs my love'
+2026-03-27 04:21:46 [AGENT   ] response='That's a lovely sentiment! Pelin must be very special to you. Is there anything I can help you with regarding Pelin, or ...'
+2026-03-27 04:21:54 [USER    ] input='2+4'
+2026-03-27 04:21:54 [TOOL    ] tool='calculator'  args={'expression': '2+4'}
+2026-03-27 04:21:54 [RESULT  ] tool='calculator'  result='6'
+2026-03-27 04:21:55 [AGENT   ] response='6'
+2026-03-27 04:21:58 [USER    ] input='<3how'
+2026-03-27 04:21:59 [AGENT   ] response='I'm not sure I understand what you mean by "<3how". Could you please rephrase your request? If you're trying to express ...'
+2026-03-27 04:22:09 [USER    ] input='degree in riga'
+2026-03-27 04:22:09 [TOOL    ] tool='get_weather'  args={'city': 'Riga'}
+2026-03-27 04:22:11 [ERR-TOOL] tool='get_weather'  result='Error: Invalid arguments for tool 'get_weather': 'NoneType' object is not subscriptable'
+2026-03-27 04:22:11 [AGENT   ] response='I'm sorry, I cannot fulfill this request. The get_weather tool requires a city name, and it seems like there was an issu...'
+2026-03-27 04:30:42 [USER    ] input='hava nasıl oralarda üsüyor musun'
+2026-03-27 04:30:43 [AGENT   ] response='Hangi şehirdeki havanın durumunu öğrenmek istediğinizi belirtir misiniz?'
+2026-03-27 04:30:47 [USER    ] input='rıga'
+2026-03-27 04:30:47 [TOOL    ] tool='get_weather'  args={'city': 'Riga'}
+2026-03-27 04:30:48 [RESULT  ] tool='get_weather'  result='Weather in Riga:
+  Temperature  : 3.0°C
+  Wind Speed   : 11.2 km/h
+  Wind Dir     : 237°
+  Weather Code : 3 (see Open-Me...'
+2026-03-27 04:30:48 [AGENT   ] response='My response was blocked by a safety filter. Please rephrase your request.'
+2026-03-27 04:32:33 [USER    ] input='cagnım rıgada hava nasıl'
+2026-03-27 04:32:33 [TOOL    ] tool='get_weather'  args={'city': 'Riga'}
+2026-03-27 04:32:34 [RESULT  ] tool='get_weather'  result='Weather in Riga:
+  Temperature  : 3.0°C
+  Wind Speed   : 11.2 km/h
+  Wind Dir     : 237°
+  Weather Code : 3 (see Open-Me...'
+2026-03-27 04:32:35 [AGENT   ] response='My response was blocked by a safety filter. Please rephrase your request.'
+2026-03-27 04:32:49 [USER    ] input='rıgada hava durumunu ogrenmek ıstıyorum'
+2026-03-27 04:32:50 [TOOL    ] tool='get_weather'  args={'city': 'Riga'}
+2026-03-27 04:32:51 [RESULT  ] tool='get_weather'  result='Weather in Riga:
+  Temperature  : 3.0°C
+  Wind Speed   : 11.2 km/h
+  Wind Dir     : 237°
+  Weather Code : 3 (see Open-Me...'
+2026-03-27 04:32:51 [AGENT   ] response='My response was blocked by a safety filter. Please rephrase your request.'
+2026-03-27 04:33:59 [USER    ] input='rıgada hava durumu nasıl'
+2026-03-27 04:34:03 [TOOL    ] tool='get_weather'  args={'city': 'Riga'}
+2026-03-27 04:34:03 [RESULT  ] tool='get_weather'  result='Weather in Riga:
+  Temperature  : 3.0°C
+  Wind Speed   : 11.2 km/h
+  Wind Dir     : 237°
+  Weather Code : 3 (see Open-Me...'
+2026-03-27 04:34:04 [ERROR   ] message='Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.'
+2026-03-27 04:34:04 [AGENT   ] response='I encountered an unexpected error while processing your request. Details: Invalid operation: The `response.text` quick a...'
+2026-03-27 04:34:20 [USER    ] input='weatwhher in riga'
+2026-03-27 04:34:21 [TOOL    ] tool='get_weather'  args={'city': 'Riga'}
+2026-03-27 04:34:22 [RESULT  ] tool='get_weather'  result='Weather in Riga:
+  Temperature  : 3.0°C
+  Wind Speed   : 11.2 km/h
+  Wind Dir     : 237°
+  Weather Code : 3 (see Open-Me...'
+2026-03-27 04:34:22 [ERROR   ] message='Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.'
+2026-03-27 04:34:22 [AGENT   ] response='I encountered an unexpected error while processing your request. Details: Invalid operation: The `response.text` quick a...'
+2026-03-27 04:34:50 [USER    ] input='ıstanbulda hava nasıl'
+2026-03-27 04:34:50 [TOOL    ] tool='get_weather'  args={'city': 'Istanbul'}
+2026-03-27 04:34:51 [RESULT  ] tool='get_weather'  result='Weather in Istanbul:
+  Temperature  : 6.7°C
+  Wind Speed   : 4.9 km/h
+  Wind Dir     : 17°
+  Weather Code : 1 (see Open-...'
+2026-03-27 04:34:51 [AGENT   ] response='The weather in Istanbul is 6.7°C with a wind speed of 4.9 km/h from the north-northeast.'
+2026-03-27 04:35:05 [USER    ] input='ızmır de nasıl'
+2026-03-27 04:35:05 [TOOL    ] tool='get_weather'  args={'city': 'Izmir'}
+2026-03-27 04:35:06 [RESULT  ] tool='get_weather'  result='Weather in Izmir:
+  Temperature  : 9.3°C
+  Wind Speed   : 7.8 km/h
+  Wind Dir     : 158°
+  Weather Code : 1 (see Open-Me...'
+2026-03-27 04:35:06 [AGENT   ] response='The weather in Izmir is 9.3°C with a wind speed of 7.8 km/h from the south-southeast.'
+2026-03-27 04:35:09 [USER    ] input='rıgada'
+2026-03-27 04:35:09 [TOOL    ] tool='get_weather'  args={'city': 'Riga'}
+2026-03-27 04:35:09 [RESULT  ] tool='get_weather'  result='Weather in Riga:
+  Temperature  : 3.0°C
+  Wind Speed   : 11.2 km/h
+  Wind Dir     : 237°
+  Weather Code : 3 (see Open-Me...'
+2026-03-27 04:35:10 [AGENT   ] response='The weather in Riga is 3.0°C with a wind speed of 11.2 km/h from the west-southwest.'
